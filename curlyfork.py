@@ -3,9 +3,7 @@ from Crypto.Cipher import AES
 from Crypto.Random import get_random_bytes
 import binascii
 import shutil
-
-# Define your own AES key (in hexadecimal format)
-# Example key: "00112233445566778899aabbccddeeff" (This is a 128-bit key)
+#KEY : "*************" (ask the creator of this tool)
 aes_key_hex = "4f7c1d2e3a8b9c0d5e6f7a8b9c0d1e2f"
 aes_key = binascii.unhexlify(aes_key_hex)  # Convert the hex key to bytes
 
