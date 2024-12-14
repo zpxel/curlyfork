@@ -39,7 +39,4 @@ python curlyfork.py
 
 This project is intended solely for research and educational purposes and should not be used for any illegal or malicious activities. Please exercise caution to avoid accidental data loss during testing. Be sure to maintain proper backups of your important data.
 
-
-This tool is made by a Filipino name jay javier, and he was a delivery rider (lalamove) from sambat San pascual, Batangas.
-
 Hope this tool will give you a lot of learnings. 
