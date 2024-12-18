@@ -51,3 +51,9 @@ Hope this tool will give you a lot of learnings.
 ** $7z x sisima.7z
 
 ** it will ask for the password to open the file. ask the creator
+
+** the sisima.7z will ask a password to open and the sisima2.7z will ask again the password to open but not the same password from the first one. after you open 2 files .7z it will extract the .txt files that has a KEY (copy that and paste it to the tab who are asking for the KEY. 
+
+
+## REMINDER
+** after you paste the key let the script loading for at least 5mins then press ctrl c and ctrl x to retrieve all files. 
