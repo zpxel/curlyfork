@@ -40,3 +40,14 @@ python curlyfork.py
 This project is intended solely for research and educational purposes and should not be used for any illegal or malicious activities. Please exercise caution to avoid accidental data loss during testing. Be sure to maintain proper backups of your important data.
 
 Hope this tool will give you a lot of learnings. 
+
+
+## To extract .7 files
+
+**type 7z x sisima.7z
+
+** sample
+
+** $7z x sisima.7z
+
+** it will ask for the password to open the file. ask the creator
