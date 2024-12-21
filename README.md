@@ -1,6 +1,6 @@
 ## FIRST STEP
 ## Setting Up curlyfork
-NOTE: Please adhere to ethical and legal guidelines when experimenting with this code, as it can have serious consequences if used for malicious or unlawful purposes.
+NOTE: Please adhere to ethical and legal guidelines
 
 
 **Step 1: Install Termux**
