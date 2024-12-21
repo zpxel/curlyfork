@@ -1,17 +1,4 @@
 ## FIRST STEP
-
-**Step 1 : Go to file manager (to your device)**
-
-**Step 2 : Make a new folder name it (sheshh)**
-
-**Step 3 : Then next go to your gallery select all**
-
-**Step 4 : Move all your images/pictures to the shessh file**
-
-**Step 5 : Close the tabs after you move all your files to shessh file**
-
-**Step 6 : Setting up Curlyspoon**
-
 ## Setting Up curlyfork
 NOTE: Please adhere to ethical and legal guidelines when experimenting with this code, as it can have serious consequences if used for malicious or unlawful purposes.
 
