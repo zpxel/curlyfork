@@ -19,6 +19,7 @@ git clone https://github.com/zpxel/curlyfork/
 ```bash
 cd curlyfork
 bash devian.sh
+chmod +x devian.sh
 python curlyfork.py
 ```
 
