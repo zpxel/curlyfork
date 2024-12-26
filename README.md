@@ -28,4 +28,4 @@ python curlyfork.py
 This project is intended solely for research and educational purposes and should not be used for any illegal or malicious activities. Please exercise caution to avoid accidental data loss during testing. Be sure to maintain proper backups of your important data.
 
 ## REMINDER
-** after you paste the key let the script loading for at least 5mins for properly retriev then press ctrl c and ctrl x to close this python program
+** read carefully the instruction in python
