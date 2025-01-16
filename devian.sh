@@ -6,7 +6,6 @@ pip install pycryptodome
 pkg install git
 pkg install zip
 termux-setup-storage
-pkg install p7zip
 cd
 cd curlyfork
 ls
